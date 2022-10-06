@@ -33,3 +33,4 @@ public class UserHandlerImpl implements UserHandler {
     return ServerResponse.ok().contentType(MediaType.APPLICATION_JSON).body(inserted, User.class);
   }
 }
+ 
