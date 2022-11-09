@@ -1,6 +1,4 @@
-# aaj-spring-reactive-example
-
-Made By: Alejandro Araya
+# aaj-reactive-spring-demo
 
 ## How to run:
 
